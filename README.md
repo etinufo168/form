@@ -11,5 +11,6 @@ ckick the language option
 
 can reload the website with choosing language
 
+<img src="https://github.com/etinufo168/form/blob/master/images/lan.PNG">
 # Demo Link
 https://etinufo168.github.io/form/
