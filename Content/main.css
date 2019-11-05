@@ -39,9 +39,9 @@ a:hover{
 	background-image: url(images/lion.png);
 	background-size: 100%;
 	background-repeat: no-repeat;
-	background-position-y: -82px;
-	height: 580px;
-    width: 500px;
+	background-position-y: -60px;
+	height: 425px;
+    width: 365px;
 }
 .body-content {
 	display: flex;
@@ -63,7 +63,7 @@ a:hover{
 	position: relative;
 	display: flex;
 	height: 36px;
-	width: 170px;
+	width: 100px;
 	margin: 20px 70px 0 auto; /*上右下左*/
 	z-index: 2;
 }
@@ -96,10 +96,6 @@ a:hover{
 }
 .form_body{
 	width: 365px;
-	margin: 0 auto;
-}
-.finish{
-	width: 500px;
 	margin: 0 auto;
 }
 /*========scroll========*/
@@ -848,8 +844,8 @@ input::placehoder{
 	.blue_hori_cel {
 		min-width: 70px;
 	}
-	.form_body_top{
-		margin-right: -20px;
+	.form_body_top,.body_finish{
+		margin-right: 0;
 	}
 	.main_right_body{
 		width: 415px;
@@ -893,6 +889,9 @@ input::placehoder{
 		margin-top: 0;
 		border: none;
 		box-shadow: none;
+	}
+	.big_tilte, .big_tilte_finish{
+		margin-right: 0;
 	}
 	.form_index{
 		padding-top: 0;
