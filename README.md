@@ -12,12 +12,10 @@ ckick the language option can reload the website with choosing language
 
 <img src="https://github.com/etinufo168/form/blob/master/images/lan.PNG">
 
-part1
-
+# part1
 <img src="https://github.com/etinufo168/form/blob/master/images/part1.PNG">
 
-part2
-
+# part2
 <img src="https://github.com/etinufo168/form/blob/master/images/part2.PNG">
 
 PS: part2's lion is draw by myself with AI
